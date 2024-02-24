@@ -1,4 +1,4 @@
-**# kodluyoruzilkrepo**
+# **Kodluyoruz Ilk Repo**
 
 ---
 
@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz ](https://kodluyoruz.org/) Front-End Eğitiminde oluşturdu�
 
 ![Kodluyoruz resim](pictures\kodluyoruz.png)
 
-**## Installation**
+## **Installation**
 
 ---
 
@@ -18,7 +18,7 @@ Bu repo [Kodluyoruz ](https://kodluyoruz.org/) Front-End Eğitiminde oluşturdu�
 git clone https://github.com/iegul/kodluyoruzilkrepo.git
 ```
 
-**## Usage**
+## **Usage**
 
 ---
 
@@ -31,13 +31,13 @@ cd kodluyoruz ilk repo
 code .
 ```
 
-**## Contributing**
+## **Contributing**
 
 ---
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-**## License**
+## **License**
 
 ---
 
